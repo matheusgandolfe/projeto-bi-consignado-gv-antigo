@@ -1,0 +1,16 @@
+{
+  "clientes_analisados": 59,
+  "consignacoes_lidas": 692,
+  "seguros_peculios_identificados": 103,
+  "pct_clientes_com_desconto": 81.4,
+  "valor_mensal_ativo": 3135.21,
+  "descontos_ativos": 82,
+  "total_ja_pago": 165835.89,
+  "restituicao_em_dobro_potencial": 331671.78,
+  "media_meses_desconto": 36.1,
+  "mediana_meses_desconto": 24.0,
+  "ticket_medio_mensal": 42.96,
+  "entidade_lider": "SABEMI",
+  "pct_entidade_lider": 58.3,
+  "top3_pct": 75.7
+}

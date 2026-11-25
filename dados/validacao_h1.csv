@@ -1,0 +1,11 @@
+amostra,documento_id,consignacoes_manual,consignacoes_automatico,indeterminadas_manual,indeterminadas_automatico,classificacao_igual,divergencias
+A1,DOC-D6550D32,8,8,2,2,8,nenhuma
+A2,DOC-CE6B26F0,4,4,2,2,4,nenhuma
+A3,DOC-F4471C29,5,5,2,2,5,nenhuma
+A4,DOC-22692396,6,6,2,2,6,nenhuma
+A5,DOC-6A0C6559,5,5,0,0,5,ADE e nome da entidade da 1a linha trocados (corrigido no extrator)
+A6,DOC-36EEEB2F,6,6,1,1,6,nenhuma
+A7,DOC-23CCE8C3,7,7,1,1,7,nenhuma
+A8,DOC-A35613A6,5,5,2,2,5,nenhuma
+A9,DOC-3F5BDD95,5,5,2,2,5,nenhuma
+A10,DOC-F01E5BF0,3,3,0,0,3,nenhuma

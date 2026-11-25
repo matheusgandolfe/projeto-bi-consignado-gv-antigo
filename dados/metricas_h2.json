@@ -1,0 +1,32 @@
+{
+  "modelo_janela_completa": {
+    "modelo": "Janela completa (2020-01 a 2025-03)",
+    "inicio": "2020-01",
+    "fim": "2025-03",
+    "meses_treino": 51,
+    "meses_teste": 12,
+    "MAE": 513.5,
+    "RMSE": 536.28,
+    "MAPE_%": 22.91,
+    "MAPE_baseline_%": 13.05,
+    "coef_mensal": -2.12
+  },
+  "modelo_regime_atual": {
+    "modelo": "Regime atual (2022-06 a 2025-03)",
+    "inicio": "2022-06",
+    "fim": "2025-03",
+    "meses_treino": 22,
+    "meses_teste": 12,
+    "MAE": 286.6,
+    "RMSE": 317.99,
+    "MAPE_%": 12.64,
+    "MAPE_baseline_%": 13.05,
+    "coef_mensal": 13.39
+  },
+  "inicio_regime": "2022-06",
+  "H2_janela_completa": false,
+  "H2_regime_atual": true,
+  "previsao_total_12m": 29416.05,
+  "previsao_media_mensal": 2451.34,
+  "crescimento_mensal_regime": 25.19
+}

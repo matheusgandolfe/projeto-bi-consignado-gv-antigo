@@ -1,0 +1,8 @@
+# dados pessoais nunca entram no repositorio
+priv/
+raw/
+*.pdf
+salt.txt
+.env
+__pycache__/
+.ipynb_checkpoints/
